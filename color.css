@@ -1,0 +1,10 @@
+#name{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 100px;
+    top: 200px;
+    font-size: 70px;
+    font-style: italic;
+    -webkit-animation-fill-mode: backwards;
+    font-family: cursive;
+}
